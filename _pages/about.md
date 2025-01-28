@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-As a Research Associate at CancerCare Manitoba, my work has been pivotal in advancing cancer therapeutics through innovative drug screening methodologies. The team's efforts in this domain have been fueled by my expertise in data analysis and integration of automated techniques, ensuring that research outcomes are both impactful and patient-centric.
+With a strong foundation in academic research, I bring expertise in data analysis, project management, and business analysis, honed through groundbreaking work at CancerCare Manitoba and KIAM. My contributions to developing automated drug screening methodologies accelerated biomarker discovery and advanced personalized cancer therapies. This experience equipped me with the ability to analyze complex datasets, manage multifaceted projects, and lead cross-functional teams to deliver impactful, patient-centered solutions.  
 
-Our collaborative medical work environment has been the backdrop for significant strides in brain cancer treatment, particularly glioblastoma multiforme. With a dedication to healthcare innovation, I am proud to contribute to a mission that merges cutting-edge pharmacology research with the practical application of health informatics to enhance patient care.
+Passionate about leveraging AI and modern innovations, I strive to bridge systemic gaps in healthcare access and equity. As a fast learner and adaptable professional, I thrive on designing data-driven strategies that optimize care delivery and empower communities. Let’s connect to explore opportunities where innovation meets meaningful change.
